@@ -1,0 +1,1 @@
+Route::resource('videos', 'VideosController');

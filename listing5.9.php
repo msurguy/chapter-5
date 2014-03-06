@@ -1,0 +1,1 @@
+Route::controller('posts','PostsController');
